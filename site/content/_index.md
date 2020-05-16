@@ -1,13 +1,16 @@
 ---
-title: Great coffee with a conscience
+title: The Rightward Shift
 subtitle: Support sustainable farming while enjoying a cup
 image: img/about-direct-sourcing.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Welcome to TIPS Economics Club!
+  text: "We are dedicated to promoting the knowledge of economics on campus
+    through its activities. The Rightward Shift aims to create a way for
+    students with similar interests to get together and enhance their education,
+    as well as strength extracurricular. The club strives to push boundaries and
+    not only practice but to identify hidden abilities among us, young
+    individuals. We conduct monthly activities for economics enthusiasts to
+    sharpen their skills and get on the path to perfection. "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
