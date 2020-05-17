@@ -11,12 +11,18 @@ intro_paragraph: ""
   background: linear-gradient(to right,#667699 0%,#FFFFFF 170%);
    }
  .contact-us {
-   font-size: 15px;
+   font-size: 20px;
+   color: blue;
+   position: offset;
+   left: 100%;
 }
- 
 .contact-us:hover {
-  font-size: 20px;
- }
+  color: #2202b9;
+  font-size: 23px; 
+  text-align: right;
+  
+}
+
 </style>
 
 <i> <strong>The Rightward Shift</strong></i> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.
