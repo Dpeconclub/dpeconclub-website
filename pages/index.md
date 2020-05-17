@@ -9,7 +9,7 @@ intro_paragraph: ""
 <style>
 
  html {
-  background: linear-gradient(to right,#063f93 0%,#FFFFFF 170%);
+  background: linear-gradient(to right,#256fda 0%,#FFFFFF 170%);
    }
 
  .contact-us {
