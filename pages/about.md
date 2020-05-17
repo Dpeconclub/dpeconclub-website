@@ -1,19 +1,26 @@
 ---
 layout: page
-title: About us
+title: About Us
 meta_description: ""
 permalink: /about
 section: about
 intro_paragraph: ""
 ---
 <style>
+    html {
+    background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
+    }
     img {
     width: 30%;
+    bordercolor: white; 
+    border-width: 3px; 
+    border-style: solid;
     }
 </style>
-<p> At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
-<h2> Meet our Leadership </h2>
+<p>At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
+
+<h2>Meet our Leadership </h2>
 
 
 ![Secretary](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg "Secretary")
