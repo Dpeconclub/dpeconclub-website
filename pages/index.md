@@ -12,6 +12,10 @@ intro_paragraph: "**The Rightward Shift** aims to create a way for students with
   individuals. We conduct monthly activities for economics enthusiasts to
   sharpen their skills and get on the path to perfection."
 ---
+## Who can join?
+
+Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of The Rightward Shift.
+
 ## Why should you join?
 
 * ***Skill development:*** Joining this club is a great way to facilitate the learning of crucial life skills such as independence, balance, hard work, discipline and responsibility through economic oriented tasks for all members of the club
