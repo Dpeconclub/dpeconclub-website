@@ -7,9 +7,10 @@ section: home
 intro_paragraph: >-
   <style>
    html {
-    background: linear-gradient( to right, #667699 0%, #FFFFFF 100%);
+    background: linear-gradient( to right, #667699 0%, #FFFFFF 170%);
 
-   font-family: Helvetica , serif;
+  font-family: Helvetica , serif;
+
 
   color
      }
@@ -18,11 +19,8 @@ intro_paragraph: >-
 
   \    line-height: 15px;
 
-
-
   }
-   .paragraph:hover {
-      }
+   
   </style>
 
 
