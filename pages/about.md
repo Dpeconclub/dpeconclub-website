@@ -22,6 +22,7 @@ intro_paragraph: ""
     .about {   
     align-text: right;
     float: right; 
+    font-size: 18px;
     }
 
 </style>
@@ -33,5 +34,5 @@ intro_paragraph: ""
 
 ![Secretary](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg "Secretary")
 
-<p class="about"> secretary </p>
+<p class="about">As the Secretary of the club, my mission is to make sure all the activities uphold the status of perfection during execution, along with maintaining the structure of the club. Serving as the secretary of an economics club requires dedication to the subject and most importantly passion towards it. Partaking in such a club is also because of my need to experience different activities and experiences. I also enjoy participating in such circumstances because I relish the sensation of creating and making sure its growth comes to fruition. </p>
 
