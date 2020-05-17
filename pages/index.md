@@ -10,7 +10,9 @@ intro_paragraph: ""
  body {
   margin:10px;
   padding: 20px;
-  background-color: white;
+  background-color: white; 
+  color; black
+  opacity: 0.8;
 }
  html {
   background: linear-gradient(to right,#667699 0%,#FFFFFF 170%);
