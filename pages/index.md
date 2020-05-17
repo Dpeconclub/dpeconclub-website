@@ -43,9 +43,10 @@ intro_paragraph: ""
  <li><strong>Time management:</strong> With school, family, friends, work and other commitments, joining a club may seem challenging. However, being able to balance multiple tasks at once allows you to manage your time efficiently.</li>
 
   <li><strong>College admissions:</strong> Admission boards appreciate students who are willing to take part and manifest interest both inside and outside academics. Joining this club not only allows colleges to see how efficiently you prioritise your time but also how well rounded you are.</li> 
+</ul>
 <br>
 
-<h3>What do I need to do to join?<h3>
+<h2>What do I need to do to join?<h2>
 
 <a class="contact-us" target="_blank" 
 href="https://dpeconclub.netlify.app/contact">Contact us</a>
