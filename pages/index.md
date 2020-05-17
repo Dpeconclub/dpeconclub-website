@@ -4,8 +4,8 @@ title: Welcome to The Rightward Shift
 meta_description: TIPS Economics Club
 permalink: /
 section: home
-intro_paragraph: "**The Rightward Shift** aims to create a way for students with
-  similar interests to get together and enhance their education, as well as
+intro_paragraph: "> **The Rightward Shift** aims to create a way for students
+  with similar interests to get together and enhance their education, as well as
   strength extracurricular. We are dedicated to promoting the knowledge of
   economics on campus through its activities.The club strives to push boundaries
   and not only practice but to identify hidden abilities among us, young
@@ -23,5 +23,6 @@ Students enrolled in the IB diploma programme who are passionate about Economics
 * ***Time management:*** With school, family, friends, work and other commitments, joining a club may seem challenging. However, being able to balance multiple tasks at once allows you to manage your time efficiently.
 * ***College admissions***: Admission boards appreciate students who are willing to take part and manifest interest both inside and outside academics. Joining this club not only allows colleges to see how efficiently you prioritise your time but also how well rounded you are.
 
-<span style="font-family:Courier New; font-size:1.5em;">What do I need to do to join?</span> 
+## What do I need to do to join?
+
 ###### [Contact us](https://dpeconclub.netlify.app/contact)
