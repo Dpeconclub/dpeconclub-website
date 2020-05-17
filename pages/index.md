@@ -27,4 +27,4 @@ intro_paragraph: ""
 <hr>
 ## What do I need to do to join?
 
-###### Contact us
+<a href="https://gmail.com">Contact us</a>
