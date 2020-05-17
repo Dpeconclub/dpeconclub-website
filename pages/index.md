@@ -6,8 +6,8 @@ permalink: /
 section: home
 intro_paragraph: >-
   <style>
-   body {
-    background: linear-gradient(to bottom, #667699 0%, #FFFFFF 100%);
+   html {
+    background: linear-gradient(to bottom, #667699 10%, #FFFFFF 100%);
      }
    .paragraph {
       font-family: serif;
