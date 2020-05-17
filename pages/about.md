@@ -17,6 +17,7 @@ intro_paragraph: ""
     border-style: solid;
     float: left;
     margin:0 0 0 0px;
+    position: fixed;
     }
 
     .about {   
