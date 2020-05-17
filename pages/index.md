@@ -46,7 +46,7 @@ intro_paragraph: ""
 </ul>
 </p>
 
-<h2>What do I need to do to join?
+<h2>What do I need to do to join? <br>
 <a class="contact-us" target="_blank" 
 href="https://dpeconclub.netlify.app/contact">Contact us</a>
 <h2>
