@@ -27,4 +27,4 @@ intro_paragraph: ""
 <hr>
 ## What do I need to do to join?
 
-<a href="https://gmail.com">Contact us</a>
+<a href="https://dpeconclub.netlify.app/contact">Contact us</a>
