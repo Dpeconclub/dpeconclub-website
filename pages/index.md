@@ -26,11 +26,11 @@ intro_paragraph: ""
 }
 </style>
 
-<p><i><strong> The Rightward Shift</i></strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
+<p> <i> <strong> The Rightward Shift </i> </strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
 
 <h2> Who can join? </h2>
 
-<p>Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of The Rightward Shift.<p>
+<p>Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of The Rightward Shift.</p>
 
 
 <h2>Why should you join?</h2>
@@ -49,4 +49,4 @@ intro_paragraph: ""
 <h2>What do I need to do to join? <br>
 <a class="contact-us" target="_blank" 
 href="https://dpeconclub.netlify.app/contact">Contact us</a>
-<h2>
+</h2>
