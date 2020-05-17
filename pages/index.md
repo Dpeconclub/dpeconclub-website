@@ -8,11 +8,10 @@ intro_paragraph: >-
   <style>
    html {
     background: linear-gradient( to right, #667699 0%, #FFFFFF 170%);
-
      }
    .paragraph {
-      font-family: serif;
 
+     
   \    line-height: 15px;
 
   }
