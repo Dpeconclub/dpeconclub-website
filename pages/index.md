@@ -9,14 +9,16 @@ intro_paragraph: ""
 <style>
 
  html {
-  background: linear-gradient(to right,#667699 0%,#FFFFFF 170%);
+  background: linear-gradient(to right,#067c40 0%,#FFFFFF 170%);
    }
+
  .contact-us {
    font-size: 20px;
    color: blue;
    position: offset;
    left: 100%;
 }
+
 .contact-us:hover {
   color: #2202b9;
   font-size: 23px; 
