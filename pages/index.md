@@ -7,7 +7,9 @@ section: home
 intro_paragraph: >-
   <style>
    html {
-    background: linear-gradient(to bottom, #667699 10%, #FFFFFF 100%);
+    background: linear-gradient( 90deg, #667699 0%, #FFFFFF 100%);
+
+   font-family: serif;
      }
    .paragraph {
       font-family: serif;
