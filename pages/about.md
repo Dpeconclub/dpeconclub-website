@@ -26,6 +26,7 @@ intro_paragraph: ""
     float: right; 
     font-size: 20px;
     color: black;
+    image-orientation; from-image;  
     }
 
 </style>
