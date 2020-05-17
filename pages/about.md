@@ -22,7 +22,7 @@ intro_paragraph: ""
 
    box-shadow:4px 4px 4px #bdd6ed;
 
-\    image-orientation; from-image;  
+   image-orientation; from-image;  
     }
 
     .about {   
@@ -46,7 +46,9 @@ intro_paragraph: ""
 <h3><u>Secretary- Vivaan Chawla:</u></h3>
 <br>
 
+
 ![Secretary](/assets/img/uploads/imgonline-com-ua-exifeditrtjdbsynzv6u.jpg "Secretary")
+
 
 <br>
 <div>
