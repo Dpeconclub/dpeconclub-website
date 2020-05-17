@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About us
-meta_description: |
-  This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/about.html.
+meta_description: ""
 permalink: /about
 section: about
 intro_paragraph: At **The Rightward Shift**, we believe that our mission is what
