@@ -11,14 +11,16 @@ intro_paragraph: ""
     background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
     }
     img {
-    width: 30%;
+    width: 40%;
     border-color:white; 
     border-width: 3px; 
     border-style: solid;
     float: left;
+    
     }
 
     .about {   
+    margin:0 0 0 160px;
     float: left; 
     }
 
