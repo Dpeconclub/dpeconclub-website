@@ -7,7 +7,7 @@ section: home
 intro_paragraph: >-
   <style>
    body {
-    background: linear-gradient(to bottom, #667699 0%, #ffFFFF 100%);
+    background: linear-gradient(to bottom, #667699 0%, #FFFFFF 100%);
      }
    .paragraph {
       font-family: serif;
