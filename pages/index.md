@@ -25,8 +25,6 @@ intro_paragraph: ""
 * ***Time management:*** With school, family, friends, work and other commitments, joining a club may seem challenging. However, being able to balance multiple tasks at once allows you to manage your time efficiently.
 * ***College admissions***: Admission boards appreciate students who are willing to take part and manifest interest both inside and outside academics. Joining this club not only allows colleges to see how efficiently you prioritise your time but also how well rounded you are. 
 
-  <hr></hr>
-
 ## What do I need to do to join?
 
 ###### Contact us
