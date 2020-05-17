@@ -11,7 +11,7 @@ intro_paragraph: >-
      }
    .paragraph {
      
-    line-height: 15px;
+    line-height: 20px;
   }
 
 
