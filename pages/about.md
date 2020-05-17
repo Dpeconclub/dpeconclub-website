@@ -20,8 +20,8 @@ intro_paragraph: ""
     }
 
     .about {   
-    margin:0 0 0 0px;
-    float: left; 
+    align-text: right;
+    float: right; 
     }
 
 </style>
