@@ -10,7 +10,7 @@ intro_paragraph: >-
       font-family: monospace;
   }
    .paragraph:hover {
-      font-color: blue;
+      background-color: blue;
   }
 
   </style>
