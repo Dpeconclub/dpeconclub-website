@@ -10,7 +10,7 @@ intro_paragraph: ""
     img {
     position: fixed;
     width: 30%;
-    
+    }
 </style>
 <p> At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
