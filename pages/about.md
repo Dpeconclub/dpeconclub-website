@@ -16,13 +16,14 @@ intro_paragraph: ""
     border-width: 3px; 
     border-style: solid;
     float: left;
-    margin:0 0 0 -50px;
+    margin:0 0 0 0px;
     }
 
     .about {   
     align-text: right;
     float: right; 
-    font-size: 18px;
+    font-size: 20px;
+    color: black;
     }
 
 </style>
