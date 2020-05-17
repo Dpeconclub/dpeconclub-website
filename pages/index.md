@@ -7,10 +7,10 @@ section: home
 intro_paragraph: >-
   <style>
    body {
-    background-color:linear-gradient(69,69,69);
+    background: linear-gradient(to bottom, #667699 0%, #ffFFFF 100%);
      }
    .paragraph {
-      font-family: monospace;
+      font-family: serif;
   }
    .paragraph:hover {
       }
