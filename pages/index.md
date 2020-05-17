@@ -26,7 +26,7 @@ intro_paragraph: ""
 }
 </style>
 
-<p><i> <strong>The Rightward Shift</strong></i> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
+<p><i><strong> The Rightward Shift</strong></i> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
 
 <h2> Who can join? </h2>
 
@@ -34,7 +34,7 @@ intro_paragraph: ""
 
 
 <h2>Why should you join?</h2>
-
+<p>
 <ul>
   <li><strong>Skill development:</strong> Joining this club is a great way to facilitate the learning of crucial life skills such as independence, balance, hard work, discipline and responsibility through economic oriented tasks for all members of the club</li>
 
@@ -44,7 +44,7 @@ intro_paragraph: ""
 
   <li><strong>College admissions:</strong> Admission boards appreciate students who are willing to take part and manifest interest both inside and outside academics. Joining this club not only allows colleges to see how efficiently you prioritise your time but also how well rounded you are.</li> 
 </ul>
-<br>
+</p>
 
 <h2>What do I need to do to join?<h2>
 
