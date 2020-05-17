@@ -16,11 +16,11 @@ intro_paragraph: ""
     border-width: 3px; 
     border-style: solid;
     float: left;
-    margin:0 0 0 -10px;
+    margin:0 0 0 -50px;
     }
 
     .about {   
-    margin:0 0 0 60px;
+    margin:0 0 0 0px;
     float: left; 
     }
 
