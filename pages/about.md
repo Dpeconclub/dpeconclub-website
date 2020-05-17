@@ -8,7 +8,6 @@ intro_paragraph: ""
 ---
 <style>
     img {
-    position: fixed;
     width: 30%;
     }
 </style>
@@ -16,8 +15,7 @@ intro_paragraph: ""
 
 <h2> Meet our Leadership </h2>
 
-<img src="/assets/img/uploads/img_20191217_171446_bokeh-2.jpg"></img>
 
 ![Secretary](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg "Secretary")
 
-<p class="secretary"> random text to dignify context </p>
+
