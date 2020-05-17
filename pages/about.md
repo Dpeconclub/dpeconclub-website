@@ -41,9 +41,13 @@ intro_paragraph: ""
 <p>At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
 <h2>Meet our Leadership </h2>
+<ul>
+<li>
+<h3><u>Secretary- Vivaan Chawla:</u></h3>
+<br>
 
 ![Secretary](/assets/img/uploads/imgonline-com-ua-exifeditrtjdbsynzv6u.jpg "Secretary")
 
 <br>
 <div>
-<p class="about">As the Secretary of the club, my mission is to make sure all the activities uphold the status of perfection during execution, along with maintaining the structure of the club. Serving as the secretary of an economics club requires dedication to the subject and most importantly passion towards it. Partaking in such a club is also because of my need to experience different activities and experiences. I also enjoy participating in such circumstances because I relish the sensation of creating and making sure its growth comes to fruition. </p> </div>
+<p class="about">As the Secretary of the club, my mission is to make sure all the activities uphold the status of perfection during execution, along with maintaining the structure of the club. Serving as the secretary of an economics club requires dedication to the subject and most importantly passion towards it. Partaking in such a club is also because of my need to experience different activities and experiences. I also enjoy participating in such circumstances because I relish the sensation of creating and making sure its growth comes to fruition. </p> </div></li>
