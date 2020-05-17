@@ -13,8 +13,6 @@ intro_paragraph: >-
      }
    .paragraph {
       font-family: serif;
-
-     color: white;
   }
    .paragraph:hover {
       }
