@@ -19,6 +19,8 @@ intro_paragraph: ""
     margin:0 0 0 0px;
     display: block;
     max-width: 100%;
+
+\    transform: rotate(90deg);   
     }
 
     .about {   
