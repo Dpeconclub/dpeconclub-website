@@ -7,6 +7,11 @@ section: home
 intro_paragraph: ""
 ---
 <style>
+ body {
+  margin:10px;
+  padding: 20px;
+  background-color: white;
+}
  html {
   background: linear-gradient(to right,#667699 0%,#FFFFFF 170%);
    }
