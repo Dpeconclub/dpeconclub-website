@@ -27,7 +27,7 @@ intro_paragraph: ""
 }
 
 </style>
-<p class="page">
+
 <i> <strong>The Rightward Shift</strong></i> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.
 
 ## Who can join?
@@ -47,5 +47,3 @@ intro_paragraph: ""
 <a class="contact-us" target="_blank" 
 href="https://dpeconclub.netlify.app/contact">Contact us</a>
 
-
-</p>
