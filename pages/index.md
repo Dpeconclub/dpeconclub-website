@@ -6,13 +6,14 @@ permalink: /
 section: home
 intro_paragraph: >-
   <style>
+   body {
+    background-color:linear-gradient(69,69,69);
+     }
    .paragraph {
       font-family: monospace;
   }
    .paragraph:hover {
-      background-color: blue;
-  }
-
+      }
   </style>
 
 
