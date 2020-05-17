@@ -41,4 +41,4 @@ text-align: right;
 
 ## What do I need to do to join?
 
-###### <a class="contact-us"> \[Contact us </a>](https://dpeconclub.netlify.app/contact)
+###### <a class="contact-us" href="https://dpeconclub.netlify.app/contact" target="_blank"> Contact us </a>]
