@@ -20,15 +20,18 @@ intro_paragraph: >-
   \    line-height: 15px;
 
   }
-   
+
+
   </style>
 
 
-  <p class="paragraph" color="silver> <strong>The Rightward Shift</strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
+  <span><strong>Introduction </strong> </span>
+
+
+  <p class="paragraph" ><i> <strong>The Rightward Shift</strong></i> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
 ---
 ## Who can join?
-
-Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of The Rightward Shift.
+<i> Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of The Rightward Shift.</i>
 
 ## Why should you join?
 
