@@ -18,8 +18,7 @@ intro_paragraph: ""
     float: left;
     margin:0 0 0 0px;
     display: block;
-    max-width: 100%;
-    transform: rotate(-90deg);   
+    max-width: 100%;   
     }
 
     .about {   
@@ -36,7 +35,7 @@ intro_paragraph: ""
 
 <h2>Meet our Leadership </h2>
 
-![Secretary](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg "Secretary")
+![Secretary](/assets/img/uploads/imgonline-com-ua-exifeditrtjdbsynzv6u.jpg "Secretary")
 
 <br>
 <div>
