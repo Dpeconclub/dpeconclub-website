@@ -18,6 +18,7 @@ intro_paragraph: ""
     float: left;
     margin:0 0 0 0px;
     display: block;
+    max-width: 100%;
     }
 
     .about {   
