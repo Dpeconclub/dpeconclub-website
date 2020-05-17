@@ -3,8 +3,8 @@ layout: contact
 title: Contact
 permalink: /contact
 section: contact
-intro_paragraph: We're here to help and answer any question that you might have.
-  We look forward to hearing from you!
+intro_paragraph: <p>We're here to help and answer any question that you might
+  have. We look forward to hearing from you!<p>
 ---
 
-**Send us a message**
+<h2>Send us a message</h2>
