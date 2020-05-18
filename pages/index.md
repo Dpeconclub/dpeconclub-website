@@ -20,7 +20,6 @@ intro_paragraph: ""
    .contact-us:hover {
    color: #2202b9;
    font-size: 23px; 
-   text-align: right;
 }
 </style>
 
