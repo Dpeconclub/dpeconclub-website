@@ -29,12 +29,16 @@ intro_paragraph: ""
     }   
 </style>
 
+![](/assets/img/uploads/pasted-image-0.png)
+
 <p>At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
 <h2>Meet our Leadership </h2>
 <h3>President- Archana Kannangath:</h3>'
 
 ![President](/assets/img/uploads/pasted-image-0.png "President")
+
+![](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg)
 
 <br>
 <p class="about">Being the President of the club involves holding a great position of responsibility as her role is to provide leadership and direction to the club. Studying in the IB diploma programme has not only taught her to be highly organised, but also practical and disciplined. Being an enthusiast in both academic affairs and life in general, she is  dedicated to plan and carry through ambitious projects for the club. In her free time, her passion for art and cooking takes over. With the intention of taking risks and challenges, she aspires to start her own business one day.</p>
