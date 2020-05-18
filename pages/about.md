@@ -9,7 +9,7 @@ intro_paragraph: ""
 <style>
     html {
     background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
-    font-family: helvetica;
+    font-family: serif;
     
     }
     img {
