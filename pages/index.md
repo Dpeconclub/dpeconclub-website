@@ -29,7 +29,7 @@ intro_paragraph: ""
 
 <h2> Who can join? </h2>
 
-<p>Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of The Rightward Shift.</p>
+<p>Students enrolled in the IB diploma programme who are passionate about Economics, regardless of their subject choices are welcome to be a member of <strong> The Rightward Shift</strong>.</p>
 
 
 <h2>Why should you join?</h2>
