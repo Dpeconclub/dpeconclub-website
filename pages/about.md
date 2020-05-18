@@ -41,11 +41,11 @@ intro_paragraph: ""
 
 <h3> Vice-President- :</h3>
 
-![](/assets/img/uploads/red-bull-can-1920x1080jpg.jpg)
+![redbull](/assets/img/uploads/red-bull-can-1920x1080jpg.jpg "redbull")
 
 <h3> Vice-President- :</h3>
 
-![](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg)
+![this guy](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg "this guy")
 
 <h3> Secretary- Vivaan Chawla:</h3>
 
