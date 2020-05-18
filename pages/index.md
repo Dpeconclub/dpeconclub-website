@@ -7,26 +7,27 @@ section: home
 intro_paragraph: ""
 ---
 <style>
- html {
-  background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
+   html {
+   background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%); 
    }
-
- .contact-us {
+   .paragraph {
+   background: rgba(255,255,255,0.4);
+   }
+   .contact-us {
    font-size: 20px;
    color: blue;
    position: offset;
    left: 100%;
    text-height; 0px; 
-}
-
-.contact-us:hover {
-  color: #2202b9;
-  font-size: 23px; 
-  text-align: right;
+   }
+   .contact-us:hover {
+   color: #2202b9;
+   font-size: 23px; 
+   text-align: right;
 }
 </style>
 
-<p> <strong> The Rightward Shift  </strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
+<div class="paragraph"> <strong><p> The Rightward Shift  </strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
 
 <h2> Who can join? </h2>
 
@@ -49,4 +50,4 @@ intro_paragraph: ""
 <h2>What do I need to do to join? <br>
 <a class="contact-us" target="_blank" 
 href="https://dpeconclub.netlify.app/contact">Contact us</a>
-</h2>
+</h2></div>
