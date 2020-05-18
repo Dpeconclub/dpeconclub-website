@@ -9,6 +9,9 @@ intro_paragraph: ""
 <style>
     html {
     background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
     }
     body {
     font-family: georgia; 
