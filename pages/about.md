@@ -13,9 +13,6 @@ intro_paragraph: ""
     border-width: 3px;
     border-style: solid;
     }
-    body {
-    font-family: georgia; 
-    }
     img {
     width: 350px;
     border-color:white; 
