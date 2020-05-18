@@ -11,7 +11,7 @@ intro_paragraph: ""
     background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
     }
     img {
-    width: 40%;
+    width: 350px;
     border-color:white; 
     border-width: 3px; 
     border-style: solid;
@@ -19,7 +19,7 @@ intro_paragraph: ""
     display: block;
     max-width: 100%;   
     box-shadow:4px 4px 4px #bdd6ed;
-    image-orientation: from-image; 
+    image-orientation:from-image; 
     }
     .about {   
     align-text: right;
