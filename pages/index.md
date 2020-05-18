@@ -10,9 +10,6 @@ intro_paragraph: ""
    html {
    background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%); 
    }
-   .paragraph {
-   background: rgba(255,255,255,0.4);
-   }
    .contact-us {
    font-size: 20px;
    color: blue;
@@ -27,7 +24,7 @@ intro_paragraph: ""
 }
 </style>
 
-<div class="paragraph"> <strong><p> The Rightward Shift  </strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
+<div class="paragraph"> <p><strong> The Rightward Shift  </strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
 
 <h2> Who can join? </h2>
 
