@@ -41,15 +41,15 @@ intro_paragraph: ""
 
 <h3> Vice-President- :</h3>
 
-![redbull](/assets/img/uploads/red-bull-can-1920x1080jpg.jpg "redbull")
+![redbull](/assets/img/uploads/pasted-image-0.png "redbull")
 
 <h3> Vice-President- :</h3>
 
-![this guy](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg "this guy")
+![this guy](/assets/img/uploads/pasted-image-0.png "this guy")
 
 <h3> Secretary- Vivaan Chawla:</h3>
 
-![Secretary](/assets/img/uploads/imgonline-com-ua-exifeditrtjdbsynzv6u.jpg "Secretary")
+![Secretary](/assets/img/uploads/pasted-image-0.png "Secretary")
 
 <div>
 <p class="about">As the Secretary of the club, my mission is to make sure all the activities uphold the status of perfection during execution, along with maintaining the structure of the club. Serving as the secretary of an economics club requires dedication to the subject and most importantly passion towards it. Partaking in such a club is also because of my need to experience different activities and experiences. I also enjoy participating in such circumstances because I relish the sensation of creating and making sure its growth comes to fruition. </p> </div>
