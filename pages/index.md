@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to The Rightward Shift
+title: "Welcome to The Rightward Shift "
 meta_description: TIPS Economics Club
 permalink: /
 section: home
@@ -22,6 +22,8 @@ intro_paragraph: ""
    font-size: 23px; 
 }
 </style>
+
+
 
 <div class="paragraph"> <p><strong> The Rightward Shift  </strong> aims to create a way for students with similar interests to get together and enhance their education, as well as strength extracurricular. We are dedicated to promoting the knowledge of economics on campus through its activities.The club strives to push boundaries and not only practice but to identify hidden abilities among us, young individuals. We conduct monthly activities for economics enthusiasts to sharpen their skills and get on the path to perfection.</p>
 
