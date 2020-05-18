@@ -15,7 +15,6 @@ intro_paragraph: ""
     border-color:white; 
     border-width: 3px; 
     border-style: solid;
-    float: left;
     margin:0 0 0 0px;
     display: block;
     max-width: 100%;   
@@ -32,12 +31,22 @@ intro_paragraph: ""
 <p>At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
 <h2>Meet our Leadership </h2>
-<ul><li><h3><u>Secretary- Vivaan Chawla:</u></h3></li></ul>
+<h3><u>President- Archana:</u></h3>
+<br>
+
+![](/assets/img/uploads/pasted-image-0.png)
+
+
+<br>
+<p class="about">Being the President of the club involves holding a great position of responsibility as her role is to provide leadership and direction to the club. Studying in the IB diploma programme has not only taught her to be highly organised, but also practical and disciplined. Being an enthusiast in both academic affairs and life in general, she is  dedicated to plan and carry through ambitious projects for the club. In her free time, her passion for art and cooking takes over. With the intention of taking risks and challenges, she aspires to start her own business one day.</p>
+
+
+<br>
+<h3><u> Secretary- Vivaan Chawla:</u></h3>
 
 
 ![Secretary](/assets/img/uploads/imgonline-com-ua-exifeditrtjdbsynzv6u.jpg "Secretary")
 
-
-
+<br>
 <div>
 <p class="about">As the Secretary of the club, my mission is to make sure all the activities uphold the status of perfection during execution, along with maintaining the structure of the club. Serving as the secretary of an economics club requires dedication to the subject and most importantly passion towards it. Partaking in such a club is also because of my need to experience different activities and experiences. I also enjoy participating in such circumstances because I relish the sensation of creating and making sure its growth comes to fruition. </p> </div>
