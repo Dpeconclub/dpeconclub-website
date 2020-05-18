@@ -20,7 +20,7 @@ intro_paragraph: ""
     display: block;
     max-width: 100%;   
     box-shadow:4px 4px 4px #bdd6ed;
-    image-orientation; from-image;  
+    image-orientation: from-image; 
     }
     .about {   
     align-text: right;
