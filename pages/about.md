@@ -13,9 +13,6 @@ intro_paragraph: ""
     }
     img {
     width: 350px;
-    border-color:white; 
-    border-width: 3px; 
-    border-style: solid;
     margin:0 0 0 0px;
     display: block;
     max-width: 100%;   
