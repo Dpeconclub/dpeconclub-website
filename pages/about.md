@@ -47,6 +47,8 @@ intro_paragraph: ""
 
 ![redbull](/assets/img/uploads/pasted-image-0.png "redbull")
 
+<p class="about">I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.</p>
+
 <h3> Vice-President- :</h3>
 
 ![this guy](/assets/img/uploads/pasted-image-0.png "this guy")
