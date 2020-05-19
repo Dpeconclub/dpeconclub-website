@@ -15,8 +15,7 @@ intro_paragraph: ""
     width: 350px;
     margin:0 0 0 0px;
     display: block;
-    max-width: 100%;   
-    box-shadow:4px 4px 4px #bdd6ed;
+    max-width: 100%; 
     image-orientation: from-image; 
     }
     .about {   
