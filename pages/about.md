@@ -34,7 +34,7 @@ intro_paragraph: ""
 <p>At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
 <h2>Meet our Leadership </h2>
-<h3>President- Archana Kannangath:</h3>'
+<h3>President- Archana Kannangath:</h3>
 
 ![President](/assets/img/uploads/pasted-image-0.png "President")
 
