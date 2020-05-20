@@ -25,8 +25,6 @@ intro_paragraph: ""
     }   
 </style>
 
-![](/assets/img/uploads/pasted-image-0.png)
-
 <p>At <strong>The Rightward Shift</strong>, we believe that our mission is what drives us to expand human potential, and by building a creative and diverse team, we are able to positively impact where we work. </p>
 
 <h2>Meet our Leadership </h2>
@@ -34,20 +32,18 @@ intro_paragraph: ""
 
 ![President](/assets/img/uploads/pasted-image-0.png "President")
 
-![](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg)
-
 <br>
 <p class="about">Being the President of the club involves holding a great position of responsibility as her role is to provide leadership and direction to the club. Studying in the IB diploma programme has not only taught her to be highly organised, but also practical and disciplined. Being an enthusiast in both academic affairs and life in general, she is  dedicated to plan and carry through ambitious projects for the club. In her free time, her passion for art and cooking takes over. With the intention of taking risks and challenges, she aspires to start her own business one day.</p>
 
 <h3> Vice-President- :</h3>
 
-![redbull](/assets/img/uploads/pasted-image-0.png "redbull")
+![redbull](/assets/img/uploads/shrithan.jpg "redbull")
 
 <p class="about">I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.</p>
 
 <h3> Vice-President- :</h3>
 
-![this guy](/assets/img/uploads/pasted-image-0.png "this guy")
+![this guy](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg "this guy")
 
 <h3> Secretary- Vivaan Chawla:</h3>
 
