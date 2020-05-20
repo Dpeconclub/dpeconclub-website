@@ -10,7 +10,7 @@ intro_paragraph: ""
     background: linear-gradient(to right,#5179ae 0%,#FFFFFF 170%);
     }
    .paragraph {
-   font-size: 20px;
+   font-size: 200px;
    }
 </style>
 
