@@ -45,9 +45,7 @@ intro_paragraph: ""
 
 ![this guy](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg "this guy")
 
-<p>
-
- I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.
+<p class="about"> I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.
 
 </p><h3> Secretary- Vivaan Chawla:</h3>
 
