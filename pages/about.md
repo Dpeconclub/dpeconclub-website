@@ -39,13 +39,13 @@ intro_paragraph: ""
 
 ![redbull](/assets/img/uploads/shrithan.jpg "redbull")
 
-<p class="about">As a Vice President of the club, Shrithan assists and coordinates the President in managing meetings and hosting various activities. Being a responsible economics student not only makes him proficient in the subject but also the ideal person to complement the President in ensuring effective functioning of the club takes place. Furthermore, he looks forward to pursuing a job entitled to this field. One of the most noticeable things about Shrithan is his dedication towards his commitments as well as the ability to think outside the box. During his free time, he is usually found reading the latest novels or watching shows.</p>
+<p class="about">As a Vice President of the club, I assists and coordinates the President in managing meetings and hosting various activities. Being a responsible economics student not only makes me proficient in the subject but also the ideal person to complement the President in ensuring effective functioning of the club takes place. Furthermore, I look forward to pursuing a job entitled to this field. One of the most noticeable things about me is his dedication towards his commitments as well as the ability to think outside the box. During his free time, he is usually found reading the latest novels or watching shows.</p>
 
 <h3> Vice-President- :</h3>
 
 ![this guy](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg "this guy")
 
-<p class="about"> I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.
+<p class="about"> As an elected Vice President, it’s imperative that I takes full initiative in hosting events and scheduling meetings in the absence of the president whilst being able to assist fellow members in the completion of their tasks. My loyalty and determination is what makes my ideal for this position. My ability to work in teams and my keen eye for business and economics is what fuels my ambitions for a bright future in the same field. My adherence towards my tasks aids in making me efficient and responsible.
 
 </p><h3> Secretary- Vivaan Chawla:</h3>
 
