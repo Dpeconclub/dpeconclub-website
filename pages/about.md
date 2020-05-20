@@ -39,15 +39,19 @@ intro_paragraph: ""
 
 ![redbull](/assets/img/uploads/shrithan.jpg "redbull")
 
-<p class="about">I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.</p>
+<p class="about">As a Vice President of the club, Shrithan assists and coordinates the President in managing meetings and hosting various activities. Being a responsible economics student not only makes him proficient in the subject but also the ideal person to complement the President in ensuring effective functioning of the club takes place. Furthermore, he looks forward to pursuing a job entitled to this field. One of the most noticeable things about Shrithan is his dedication towards his commitments as well as the ability to think outside the box. During his free time, he is usually found reading the latest novels or watching shows.</p>
 
 <h3> Vice-President- :</h3>
 
 ![this guy](/assets/img/uploads/b45b8e8d-1d68-4135-976e-a8c9bafde150.jpeg "this guy")
 
-<h3> Secretary- Vivaan Chawla:</h3>
+<p>
 
-![Secretary](/assets/img/uploads/pasted-image-0.png "Secretary")
+ I am Advaith, the Vice President, of “The Rightward Shift”. As the Vice President, my duty is to take full initiative and responsibility in hosting meetings and events in the absence of the president. I will also assist the members and officers in completing tasks.
+
+</p><h3> Secretary- Vivaan Chawla:</h3>
+
+![Secretary](/assets/img/uploads/img_20191217_171446_bokeh-2.jpg "Secretary")
 
 <div>
 <p class="about">As the Secretary of the club, my mission is to make sure all the activities uphold the status of perfection during execution, along with maintaining the structure of the club. Serving as the secretary of an economics club requires dedication to the subject and most importantly passion towards it. Partaking in such a club is also because of my need to experience different activities and experiences. I also enjoy participating in such circumstances because I relish the sensation of creating and making sure its growth comes to fruition. </p> </div>
